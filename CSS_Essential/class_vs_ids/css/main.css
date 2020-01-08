@@ -1,0 +1,10 @@
+.inevidence{
+    color: red;
+}
+#promote{
+    color: green;
+}
+[contenteditable]{
+    color: red;
+    border: 1px dashed black;
+}

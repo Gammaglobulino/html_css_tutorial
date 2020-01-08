@@ -1,0 +1,25 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 50px;
+    display: inline-block;
+}
+img{
+    width: 200px;
+    /*height: 100px;*/
+    border: 10px groove orangered;
+    padding: 50px;
+    box-sizing: border-box;
+    /*margin: 20px;*/
+}
+.am1{
+    width: 100px;
+    height: 100px;
+    border: 20px dashed orangered;
+}
+.am2{
+    width: 100px;
+    height: 100px;
+    border: 30px dotted chocolate;
+}
